@@ -1,4 +1,7 @@
 import { galleryItems } from './gallery-items.js';
+import SimpleLightbox from 'simplelightbox';
+
+console.log(galleryItems);
 
 // Change code below this line
 const elemDiv = document.querySelector('.gallery');
